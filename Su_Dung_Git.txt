@@ -1,0 +1,8 @@
+
+git clone https://github.com/dunght20/DungDung.git
+
+git add .
+
+git commit -m "first commit"
+
+git push -u origin master
